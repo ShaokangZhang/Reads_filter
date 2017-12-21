@@ -9,7 +9,7 @@ Mapping based script is faster. But sometimes you may need to use both of them t
 # Dependencies 
 For mapping based "BWA_mapping_based_filter.py":
 
-1. Python 2.7; 
+1. [Python 2.7] (https://www.python.org/download/releases/2.7/); 
 
 2. [Burrows-Wheeler Aligner](http://sourceforge.net/projects/bio-bwa/files/); 
 
@@ -19,9 +19,9 @@ For mapping based "BWA_mapping_based_filter.py":
 
 For kraken based "reads_filter_based_on_kraken.py":
 
-1. Kraken
+1. [Kraken] (https://ccb.jhu.edu/software/kraken/)
 
-2. Seqtk
+2. [Seqtk] (https://github.com/lh3/seqtk)
 
 # Executing the code 
 Type "-h" for details.
